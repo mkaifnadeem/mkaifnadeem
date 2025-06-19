@@ -81,7 +81,8 @@
   💖 Thanks for visiting my profile!  
   <br>
   ⭐ If you like what I do, consider giving a star  
-  🔁 Forks and contributions are always welcome!
+  🔁 Forks and contributions are always welcome
+  -
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C41GP73X)
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C41GP73X)
