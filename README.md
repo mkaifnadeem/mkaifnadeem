@@ -83,3 +83,5 @@
   ⭐ If you like what I do, consider giving a star  
   🔁 Forks and contributions are always welcome!
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C41GP73X)
