@@ -15,6 +15,8 @@
 - ⚡ Fun Fact: I drink chai like it’s fuel ☕💻
 
 ---
+[![roadmap.sh](https://roadmap.sh/card/wide/67107b9c791f57dd6068b315?variant=dark&roadmaps=)](https://roadmap.sh)
+---
 
 ### 🛠️ Tech Stack
 
